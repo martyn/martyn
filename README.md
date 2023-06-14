@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my profile, where I code, create, and collaborate. I'm a full stack engineer, a technology optimist, and a cryptocurrency enthusiast. Here you can find my articles, open source work, products, and consulting information. 👨 💻
+Welcome to my profile, where I code, create, and collaborate. I'm a full stack engineer, a technology optimist, and an AI enthusiast. Here you can find my articles, open source work, products, and consulting information. 👨 💻
 
 ## About me: 🙋
 * 🚀 I help startups and businesses launch their ideas and scale their products.
