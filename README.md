@@ -1,12 +1,12 @@
 # Hi there 👋
 
-Welcome to my profile, where I code, create, and collaborate. I'm a full stack engineer, a technology optimist, and an AI enthusiast. Here you can find my articles, open source work, products, and consulting information. 👨 💻
+Welcome to my profile, where I code, create, and collaborate. I'm a full stack engineer, a technology optimist, and an AI enthusiast.
 
 ## About me: 🙋
+* 🌐 [My Resume](https://255labs.xyz/resumes/martyn) - My most up to date resume.
 * 🚀 I help startups and businesses launch their ideas and scale their products.
 * 📚 I write articles to share how to use technology and AI for good.
 * 💸 I like cryptocurrency and it's potential.
-* 🌐 [Resume]([https://255labs.xyz/resumes/martyn](https://255labs.xyz/resumes/martyn)) - My most up to date resume.
 
 ## Open source tools I've built: 🔧
 * 🎮 [DeepFloyd IF server](https://github.com/martyn/DeepFloydIF-Server) - a simple server for DeepFloyd with a runpod.io compatible Dockerfile.
