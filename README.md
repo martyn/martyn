@@ -6,6 +6,7 @@ Welcome to my profile, where I code, create, and collaborate. I'm a full stack e
 * 🚀 I help startups and businesses launch their ideas and scale their products.
 * 📚 I write articles to share how to use technology and AI for good.
 * 💸 I like cryptocurrency and it's potential.
+* 🌐 [Resume]([https://255labs.xyz/resumes/martyn](https://255labs.xyz/resumes/martyn)) - My most up to date resume.
 
 ## Open source tools I've built: 🔧
 * 🎮 [DeepFloyd IF server](https://github.com/martyn/DeepFloydIF-Server) - a simple server for DeepFloyd with a runpod.io compatible Dockerfile.
@@ -18,4 +19,3 @@ Welcome to my profile, where I code, create, and collaborate. I'm a full stack e
 * 💼 [LinkedIn](https://linkedin.com/in/martyngarcia) - I write some articles here.
 * 📝 [Medium](https://medium.com/@martyn.garcia) - I write some articles here too.
 * 💬 [Twitter](https://twitter.com/martyngarcia_) - Mostly for sharing thoughts. ![Twitter Follow](https://img.shields.io/twitter/follow/martyngarcia_?style=social)
-* 🌐 [255labs.xyz](https://255labs.xyz) - Find out more about our consulting options and the latest on all stuff we are working on at 255LABS.
