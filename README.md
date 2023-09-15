@@ -8,10 +8,9 @@ Welcome to my profile, where I code, create, and collaborate. I'm a full stack e
 * 📚 I write articles to share how to use technology and AI for good.
 * 💸 I like cryptocurrency and it's potential.
 
-## Open source tools I've built: 🔧
+## Open source 🔧
 * 🎮 [DeepFloyd IF server](https://github.com/martyn/DeepFloydIF-Server) - a simple server for DeepFloyd with a runpod.io compatible Dockerfile.
-
-## My open source AI work: 🤖
+* 🧮 [near-monsters](https://github.com/martyn/near-monsters) - hackathon entry with custom rust smart contracts to model the purchase/open lifecycle of a trading card game on the NEAR blockchain.
 * 🧮 [GPT-echo](https://github.com/martyn/gpt-echo) - experiments using echo state networks with pretrained language models.
 * 🎨 [HyperGAN](https://github.com/hypergan/hypergan) - a GAN framework in pytorch(previously tensorflow 1.0). ![GitHub Repo stars](https://img.shields.io/github/stars/hypergan/HyperGAN?style=social)
 
