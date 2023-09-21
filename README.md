@@ -9,7 +9,7 @@ Welcome to my profile, where I code, create, and collaborate. I'm a full stack e
 * 💸 I like cryptocurrency and it's potential.
 
 ## Open source 🔧
-* 🧮 [NEAR monsters](https://github.com/martyn/near-monsters) - NEAR boshacks hackathon entry featuring custom rust smart contracts for a NFT trading card game.
+* 🧮 [NEAR monsters](https://github.com/martyn/near-monsters) - NFT trading card game. NEAR boshacks hackathon entry winning 2nd place. Features custom rust smart contracts.
 * 🎮 [DeepFloyd IF server](https://github.com/martyn/DeepFloydIF-Server) - a simple server for DeepFloyd with a runpod.io compatible Dockerfile.
 * 🧮 [GPT-echo](https://github.com/martyn/gpt-echo) - experiments using echo state networks with pretrained language models.
 * 🎨 [HyperGAN](https://github.com/hypergan/hypergan) - a GAN framework in pytorch(previously tensorflow 1.0). ![GitHub Repo stars](https://img.shields.io/github/stars/hypergan/HyperGAN?style=social)
