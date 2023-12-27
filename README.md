@@ -14,7 +14,7 @@ I publish open source models to:
 * 🤗 [https://huggingface.co/martyn](HuggingFace)
 
 ## Open source 🔧
-* 🔀 [Safetensors Merge SuperMario(DARE)](https://github.com/martyn/safetensors-merge-supermario) - A merge tool for merging LoRas, Text-to-image models, language models, and more using the DARE technique.
+* 🔀 [Safetensors Merge SuperMario DARE](https://github.com/martyn/safetensors-merge-supermario) - A merge tool for merging LoRas, Text-to-image models, language models, and more using the DARE technique.
 * 🎮 [DeepFloyd IF server](https://github.com/martyn/DeepFloydIF-Server) - a simple server for DeepFloyd with a runpod.io compatible Dockerfile.
 * 🧮 [GPT-echo](https://github.com/martyn/gpt-echo) - experiments using echo state networks with pretrained language models.
 * ✨ [NEAR monsters](https://github.com/martyn/near-monsters) - NFT trading card game. NEAR boshacks hackathon entry winning 2nd place. Features custom rust smart contracts.
