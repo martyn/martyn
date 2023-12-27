@@ -10,8 +10,8 @@ Welcome to my profile, where I code, create, and collaborate. I'm a full stack e
 ## Open source models 🤖
 
 I publish open source models to:
-* 🖌️ [https://civitai.com/user/chandro](Civit AI)
-* 🤗 [https://huggingface.co/martyn](HuggingFace)
+* 🖌️ [Civit AI](https://civitai.com/user/chandro)
+* 🤗 [HuggingFace](https://huggingface.co/martyn)
 
 ## Open source 🔧
 * 🔀 [Safetensors Merge SuperMario DARE](https://github.com/martyn/safetensors-merge-supermario) - A merge tool for merging LoRas, Text-to-image models, language models, and more using the DARE technique.
